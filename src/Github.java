@@ -1,6 +1,6 @@
 
-public class Demo {
-	
+public class Github {
+
 	public static  void git() {
 		System.out.println("Stephen Branch");
 	}
@@ -10,6 +10,4 @@ public class Demo {
 		git();
 		
 	}
-	
-
 }
